@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Hallysson Mateus 👋
 
-- 🔭 Hoje estou aprendendo e praticando na areá pra ser desenvolvedor Full Stack
+- 🔭 Hoje estou aprendendo e praticando na área pra ser desenvolvedor Full Stack
 - 🌱 Estudando Typescript e React
 - 😄 Pronouns: ele/dela
 
