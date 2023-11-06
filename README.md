@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estou aprendendo e praticando na área pra ser desenvolvedor Full Stack
 - 🌱 Estudando Typescript e React
-- 😄 Pronouns: ele/dela
 
 ![Hallysson Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=hallyssonmateus&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hallyssonmateus&layout=compact)
